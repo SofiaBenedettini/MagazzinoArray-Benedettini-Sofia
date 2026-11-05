@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/doc/" />
+  <Folder Name="/src/">
+    <Project Path="src/BlaisePascal.MagazzinoArray-Sofia-Benedettini.Console/BlaisePascal.MagazzinoArray-Sofia-Benedettini.Console.csproj" />
+    <Project Path="src/BlaisePascal.MagazzinoArray-Sofia-Benedettini.Domain/BlaisePascal.MagazzinoArray-Sofia-Benedettini.Domain.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="test/BlaisePascal.MagazzinoArray-Sofia-Benedettini.Test/BlaisePascal.MagazzinoArray-Sofia-Benedettini.Test.csproj" />
+  </Folder>
+</Solution>
