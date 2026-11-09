@@ -8,4 +8,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\BlaisePascal.MagazzinoArray-Sofia-Benedettini.Domain\BlaisePascal.MagazzinoArray-Sofia-Benedettini.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
